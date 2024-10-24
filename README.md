@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 ## Output Video
 
-[![Parking Management System Output](docs/output.jpg)](parking_management_output.mp4)
+[![Parking Management System Output](output.png)](parking_management.mp4)
 
 Click the image above to watch the full video of the parking management system in action.
 
