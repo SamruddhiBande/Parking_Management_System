@@ -55,9 +55,9 @@ Ensure you have the following installed:
 
 ## Output Video
 
-The output video demonstrating the parking management system in action is available [here on Google Drive](https://drive.google.com/your-video-linkhttps://drive.google.com/file/d/17npdHbwHzyo4vczljQ3u6rssT6ixFrHT/view?usp=sharing).
+The output video demonstrating the parking management system in action is available [here on Google Drive](https://drive.google.com/file/d/17npdHbwHzyo4vczljQ3u6rssT6ixFrHT/view?usp=sharing).
 
-![Output Preview](docs/output.png)
+![Output Preview](output.png)
 
 In this video, parking spaces are monitored, and vehicle occupancy is detected using YOLOv11.
 
