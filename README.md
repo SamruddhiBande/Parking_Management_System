@@ -55,11 +55,12 @@ Ensure you have the following installed:
 
 ## Output Video
 
-[![Parking Management System Output](output.png)]([parking_management.mp4](https://drive.google.com/file/d/17npdHbwHzyo4vczljQ3u6rssT6ixFrHT/view?usp=sharing))
+The output video demonstrating the parking management system in action is available [here on Google Drive](https://drive.google.com/your-video-linkhttps://drive.google.com/file/d/17npdHbwHzyo4vczljQ3u6rssT6ixFrHT/view?usp=sharing).
 
-Click the image above to watch the full video of the parking management system in action.
+![Output Preview](docs/output.png)
 
-In the video, the system detects the vehicle occupancy in the parking spots using YOLOv11.
+In this video, parking spaces are monitored, and vehicle occupancy is detected using YOLOv11.
+
 
 
 ## License
