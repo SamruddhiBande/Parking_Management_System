@@ -53,6 +53,15 @@ Ensure you have the following installed:
 2. The script draws bounding boxes on the detected vehicles based on parking spots defined in `bounding_boxes.json`.
 3. Output video with bounding boxes is saved as `parking management.avi`.
 
+## Output Video
+
+[![Parking Management System Output](output.png)](parking_management.mp4)
+
+Click the image above to watch the full video of the parking management system in action.
+
+In the video, the system detects the vehicle occupancy in the parking spots using YOLOv11.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
